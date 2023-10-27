@@ -139,4 +139,4 @@ All results should be in ./output folder. After running the test command, you ca
 
 Our last checkpoint and config for the competition can be found [here](https://drive.google.com/drive/folders/1x5jmwaHIoSHcs2QgBJDQ9ZhW3kcig0Fk?usp=sharing)
 
-Our technical report can be found (TBD)
+Our technical report can be found [here](https://drive.google.com/file/d/1kpv7WNB1Bxsh4eRr6o0iVDVuXIXfHf5M/view?usp=sharing)
